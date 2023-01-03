@@ -5,7 +5,7 @@ Thanks for checking my profile!
 
 - 🔭 I’m currently training with [The Hacking Project](https://www.thehackingproject.org)
 
-- 🌱 I’m currently learning **Ruby on Rails 🛑**
+- 🌱 I’m currently learning **JavaScript 🛑**
 - 📫 How to reach me -> **kevin.tazaro@gmail.com**
 
 
