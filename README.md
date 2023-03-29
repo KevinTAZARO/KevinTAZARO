@@ -1,9 +1,10 @@
 <h1 align="center">Hi there 👋
 I'm Kevin.</h1>
+<h3 align="center">Developper Fullstack ReactJS/Ruby on Rails 💻</h3>
 Thanks for checking my profile!
 
 
-- 🔭 I’m currently training with [The Hacking Project](https://www.thehackingproject.org)
+- 🔭 I’m currently looking for new opportunities to use my skills.
 
 - 🌱 I’m currently learning **JavaScript & React 🛑**
 - 📫 How to reach me -> **kevin.tazaro@gmail.com**
