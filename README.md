@@ -6,7 +6,7 @@ Thanks for checking my profile!
 
 - 🔭 I’m currently looking for new opportunities to use my skills.
 
-- 🌱 I’m currently learning **Node.js, PHP and Cyber-Security 🛑**
+- 🌱 I’m currently learning **Node.js, Python and Cyber-Security 🛑**
 - 📫 How to reach me -> **kevin.tazaro@gmail.com**
 
 
