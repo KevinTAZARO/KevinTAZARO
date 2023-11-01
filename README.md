@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋
 I'm Kevin.</h1>
-<h3 align="center">Developper Fullstack ReactJS/Ruby on Rails 💻</h3>
+<h3 align="center">Just a dev 💻</h3>
 Thanks for checking my profile!
 
 
